@@ -1,7 +1,47 @@
-# 💫 About Me:
-Hello! I'm Atharva Arun Khamkar, a last-year Computer Science and Engineering student at D. Y. Patil Technical Campus, Kolhapur. My academic journey has provided me with a strong foundation in programming languages such as C, C++, HTML5, CSS3, JavaScript, and MySQL. 💻📚<br><br>I have a keen interest in DevOps and cloud computing, and I have hands-on experience with technologies like AWS, Docker, Jenkins, and GitLab CI/CD pipelines. Here are some highlights of my projects and experience:<br><br>Projects 🚀<br>Poshan Website: Developed a comprehensive diet and nutrition recommendation website with sections for consultation booking, package plans, diet guides, blogs, and more. The project also involved logo design, company history, diet survey, FAQs, and an admin page. 🌱🍎<br>2048 Game Deployment: Deployed the 2048 game on AWS using Docker and Jenkins, showcasing my ability to manage and automate deployments in a cloud environment. 🎮☁️<br>GitLab CI/CD Pipeline: Built a CI/CD pipeline on GitLab using a .gitlab-ci.yml file to automate the build and deployment of a Node.js application. Connected a custom runner on an EC2 instance, demonstrating proficiency in cloud integration and continuous deployment. 🔧📦<br>Ansible Automation: Coordinated college technical events and utilized Ansible for automation, updating, maintaining, and troubleshooting server configurations. Deployed a static login form across multiple servers with ad-hoc commands and custom modules. 📈🔄<br>Skills 🛠️<br>Programming: C, C++, HTML5, CSS3, JavaScript, MySQL<br>DevOps Tools: Docker, Jenkins, GitLab CI/CD, Ansible<br>Cloud Platforms: AWS (EC2, S3, RDS, etc.)<br>Version Control: Git, GitHub<br>CI/CD: Building and managing pipelines for continuous integration and deployment<br>I am passionate about leveraging technology to solve real-world problems and continuously expanding my skill set in the ever-evolving tech landscape. I am eager to collaborate on innovative projects and contribute to the open-source community. 🌐✨<br><br>Feel free to explore my repositories and connect with me for any collaboration or discussion! 🤝
+Hello! I'm Atharva Arun Khamkar, currently pursuing my Master’s in Advanced Computer Science (Cloud Computing) at the University of Leeds, United Kingdom 🇬🇧🎓.
+This course focuses on advanced topics such as distributed systems, scalable cloud infrastructures, data analytics, machine learning for cloud environments, and cloud security management, equipping me with the expertise to design and optimize cloud-native solutions. ☁️💻
 
+I completed my B.Tech in Computer Science and Engineering from D. Y. Patil Technical Campus, Kolhapur, where I built a strong foundation in programming, software development, and DevOps methodologies.
 
+🚀 Academic & Technical Highlights:
+
+Programming Languages: C, C++, HTML5, CSS3, JavaScript, MySQL
+
+DevOps Tools: Docker, Jenkins, GitLab CI/CD, Ansible
+
+Cloud Platforms: AWS (EC2, S3, RDS, IAM, VPC, etc.)
+
+Version Control: Git & GitHub
+
+Focus Areas: CI/CD pipelines, containerization, automation, and cloud infrastructure management
+
+💡 Projects & Experience:
+
+Poshan Website: Developed a full-featured diet and nutrition recommendation platform with modules for consultation booking, package plans, diet guides, blogs, FAQs, and admin management. 🍎🌱
+
+2048 Game Deployment: Deployed the 2048 game on AWS using Docker and Jenkins, showcasing end-to-end automation and deployment in a cloud environment. 🎮☁️
+
+GitLab CI/CD Pipeline: Created a complete CI/CD pipeline using a .gitlab-ci.yml file for automating the build and deployment of a Node.js app, integrating with AWS EC2 via a custom runner. 🔧📦
+
+Ansible Automation: Utilized Ansible to automate server management tasks—deploying a static login form across multiple servers using ad-hoc commands and playbooks. 🔄⚙️
+
+🌐 What I’m Exploring at Leeds:
+
+At the University of Leeds, I’m deepening my understanding of:
+
+Cloud Infrastructure & Virtualization
+
+Software Engineering for Scalable Systems
+
+Big Data Systems and Analytics
+
+Artificial Intelligence for Cloud Computing
+
+Advanced Networking and Security in Cloud Systems
+
+I’m passionate about leveraging cloud technologies and automation tools to build scalable, secure, and efficient systems that solve real-world challenges. Always eager to collaborate on open-source projects, cloud-native applications, or DevOps automation initiatives. 🌍✨
+
+Let’s connect and innovate together! 🤝
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-khamkar/) 
 
